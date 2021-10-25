@@ -1,0 +1,80 @@
+    body{
+        text-align: center;
+        margin:0;
+        padding-top: 800px;
+        background: linear-gradient(#6fd0e6 20%, #e997dbc7 80%);
+    }
+        
+    
+    }
+    h1{
+        font-size: 40px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 50px;
+    }
+    
+    #para{
+        padding: 50px;
+        font-size: 35px;
+        font-family: 'Zen Kurenaido', sans-serif;;
+    }
+    
+    .line{
+        height: 7px;
+        margin: 8px auto;
+        background-color: rgb(109, 74, 74);
+        width: 80px;
+    }
+    
+
+    
+    
+    .menu{
+    font-family: sans-serif;
+    position: fixed;
+    top:10px;
+    right:80px;
+    z-index: 10;
+    margin-bottom: 30px;
+    }
+    
+    .links{
+        float: left;
+        padding-top:5px;
+        padding-bottom: 5px;
+        padding-left: 25px;
+        padding-right: 25px;
+        font-family: fantasy;
+        font-size: 20px;
+        color: rgb(238, 20, 191);
+        
+    }
+    
+    .links:hover{
+        font-family: 'Ephesis', cursive;
+        font-size: 25px;
+        color: rgb(19, 16, 218);
+    }
+    
+    a{
+        text-decoration:none;
+        
+    }
+    
+    html{
+        scroll-behavior: smooth;
+    }
+    .article:hover{
+    color: fuchsia;
+    }
+
+    #image1{
+        border-radius: 50%;
+        width: 180px;
+        margin-bottom: 50px;
+    }
+
+    #myself{
+        padding: 50px;
+        font-size: 35px;
+        font-family: 'Zen Kurenaido', sans-serif;;
